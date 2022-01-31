@@ -15,7 +15,7 @@ A simple Desktp Aplication where u can :
 
 <h2>How I create databse ?</h2>
 	
-``sql
+```sql
 create table Studenti(
 	Student_ID int primary key identity not null,
 	Nume varchar(20) not null,
