@@ -22,4 +22,5 @@ create table Studenti(
 	Studii varchar(20) not null,
 	Varsta varchar(20) not null,
 	Genul varchar(10) not null
-);```
+);
+```
